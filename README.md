@@ -1,5 +1,5 @@
 
-# dev24_s_application1
+# uxuibranding_application1
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
